@@ -1,0 +1,74 @@
+
+body{
+    background-color: #ffd4d0;
+    
+}
+
+div{
+    
+    height: 400px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.roditelj0{
+    display: grid;
+
+    grid-template-columns: 680px 680px;
+}
+
+.roditelj1{
+display: grid;
+
+
+
+grid-template-columns: 340px 340px 340px 340px;
+
+justify-content: space-between;
+align-content: space-between;
+
+
+}
+
+
+
+
+
+
+
+p{
+
+font-size: 24px;
+font-family: cursive;
+color: indianred;
+
+}
+
+#torteNaslov{
+    height: 200px;
+}
+
+
+
+#razmak1{
+    font-family: cursive; text-align: right; color: indianred; font-size: 60px;
+    
+    height: 200px;
+   
+}
+
+#poIzboru{
+    cursor: pointer;
+}
+
+img{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
