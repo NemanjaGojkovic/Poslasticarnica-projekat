@@ -6,8 +6,20 @@ alert("Mogući sastojci: čokolada, bela čokolada, lešnik, keks, orah, vanila,
 });
 
 
-$("#kolacic").click(function(){
-    document.write("Neki tekstic");
+$("#kolacic1").click(function(){
+    document.write("Dobrodošli u našu poslastičarnicu");
+})
+
+$("#kolacic2").click(function(){
+    document.write("Dobrodošli u našu poslastičarnicu");
+})
+
+$("#kolacic3").click(function(){
+    document.write("Dobrodošli u našu poslastičarnicu");
+})
+
+$("#kolacic4").click(function(){
+    document.write("Dobrodošli u našu poslastičarnicu");
 })
 
 
